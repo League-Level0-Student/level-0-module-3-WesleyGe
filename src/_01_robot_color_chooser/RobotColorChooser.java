@@ -12,6 +12,7 @@ import java.awt.Color;
 public class RobotColorChooser {
 	public static void main(String[] args) {
 		//1. Create a new Robot
+		
 		for(int i=0;i<1;i++) {
 Robot robot= new Robot();
 		//3. Ask the user what color they would like the robot to draw
